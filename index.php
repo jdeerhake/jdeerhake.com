@@ -1,3 +1,4 @@
+<!-- hi -->
 <?php require_once('include/header.php'); ?>
 <a href="http://www.flickr.com/photos/deerhake11/4569486378/"><img class="right" src="http://farm5.static.flickr.com/4067/4569486378_db308f2b2d.jpg"  alt="Laura and I on Mt Hedgehog in New Hampshire (I'm the big one)"/></a>
 <h2>Hi There!</h2>
