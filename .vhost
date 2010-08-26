@@ -1,10 +1,10 @@
 <VirtualHost *:80>
-	ServerAdmin jdeerhake@gmail.com
-  ServerName jdeerhake.com
-  ServerAlias www.jdeerhake.com
+    ServerAdmin jdeerhake@gmail.com
+    ServerName jdeerhake.com
+    ServerAlias www.jdeerhake.com
   
-	DocumentRoot /www/jdeerhake.com
-	<Directory /www/jdeerhake.com/>
+	DocumentRoot /www/jdeerhake-com
+	<Directory /www/jdeerhake-com/>
 		Options -Indexes FollowSymLinks MultiViews
 		AllowOverride None
 		Order allow,deny
