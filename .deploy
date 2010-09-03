@@ -1,0 +1,2 @@
+#/bin/bash
+ssh jdeerhake@git.jdeerhake.com 'cd /www/jdeerhake-com;git checkout production;git pull'
