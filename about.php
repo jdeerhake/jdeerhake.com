@@ -12,13 +12,13 @@
 	IT professional.</p>
 
 <p>I like to travel as much as I can, I've driven through and visited about 35 US states and 9 countries in Europe. Since growing up in Ohio, I've lived for short periods of time in Glendale, California; 
-	Darmstadt-Wixhausen, Germany; Hanover, New Hampshire; and Boston, Massachusetts.</p>
+	Darmstadt-Wixhausen, Germany; Hanover, New Hampshire; Boston, Massachusetts; and Pasadena, California.</p>
 
 <p>I got my first computer in 1996 - a Gateway2000 with a Pentium Pro 180 MHz. I instanly began playing around with it and almost just as quickly broke it.  After I repeated this process once 
 	or twice I decided to teach myself to fix it.  I've been fixing computers (and breaking them) ever since.  I've also taken to building and upgrading them as a hobby.</p> 
 
 <p>In the midst of that experience I was introduced to coding by my cousin, Dustin.  I started with QBasic in 1996 and that led me to C and C++. Around that same year, I made my first 
-	webpage using HTML and instantly loved web programming.  I've since become proficient in CSS, PHP, and JavaScript (including jQuery). </p>
+	webpage using HTML and instantly loved web programming. </p>
 
 <p>&nbsp;</p>
 <h2>Stuff I Use</h2>

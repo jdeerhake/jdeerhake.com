@@ -9,13 +9,14 @@
 		<dt>Email</dt>
 			<dd><a href="mailto:jdeerhake@gmail.com">jdeerhake@gmail.com</a></dd>
 		<dt>Address</dt>
-			<dd>8 Summer St, Apt 9<br /> Hanover, NH 03755</dd>
+			<dd>33 S Wilson Ave Apt 205<br />Pasadena, CA 91106</dd>
 	</dl>
 </div>
 
 <div class="floatLeft">
-	<h2>Social</h2>
+	<h2>Links</h2>
 	<div class="socialGrid">
+		<a href="http://github.com/jdeerhake"><img class="socialIcon" src="images/github.png" alt="Github" /></a>
 		<a href="http://facebook.com/deerhake11"><img class="socialIcon" src="images/facebook.png" alt="Facebook" /></a>
 		<a href="http://flickr.com/photos/deerhake11"><img class="socialIcon" src="images/flickr.png" alt="Flickr" /></a>
 		<a href="http://twitter.com/jdeerhake"><img class="socialIcon" src="images/twitter.png" alt="Twitter" /></a>
