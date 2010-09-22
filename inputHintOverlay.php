@@ -1,7 +1,7 @@
 <?php require_once('include/header.php'); ?>
 <h2>inputHintOverlay</h2>
 <h3>jQuery Plugin</h3>
-<h4>Last update: 4/14/2010</h4>
+<h4>Last update: 9/21/2010</h4>
 	<div class="section">
 		<h4>About</h4>
 		<p>A jQuery plugin that overlays input labels as hints to a form. It uses the title tags on each input/textarea as the label values/hints. It is called it on the form (or any parent). </p>
@@ -18,10 +18,10 @@
 	<div class="section">
 		<h4>Download</h4>
 			<ul class="noMargin">
-				<li class="noMark"><a href="files/jquery.inputHintOverlay.js">jquery.inputHintOverlay.js</a> (v1.1.9)</li>
-				<li class="noMark"><a href="files/jquery.inputHintOverlay.min.js">jquery.inputHintOverlay.min.js</a> (v1.1.9)</li>
-				<li class="noMark"><a href="files/inputHintOverlay.zip">Example</a></li>
+				<li class="noMark"><a href="files/jquery.inputHintOverlay.js">jquery.inputHintOverlay.js</a> (v1.1.10)</li>
+				<li class="noMark"><a href="files/jquery.inputHintOverlay.min.js">jquery.inputHintOverlay.min.js</a> (v1.1.10)</li>
 				<li class="noMark">&nbsp;</li>
+			    <li class="noMark"><a href="http://github.com/jdeerhake/inputHintOverlay">GitHub repository</a></li>
 				<li class="noMark"><a href="http://plugins2.jquery.com/project/inputHintOverlay">jQuery plugin page</a></li>
 			</ul>
 	</div>
