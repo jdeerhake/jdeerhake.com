@@ -1,7 +1,7 @@
 <?php require_once('include/header.php'); ?>
 <h2>inputHintOverlay</h2>
 <h3>jQuery Plugin</h3>
-<h4>Last update: 4/14/2010</h4>
+<h4>Last update: 9/21/2010</h4>
 	<div class="section">
 		<h4>About</h4>
 		<p>A jQuery plugin that overlays input labels as hints to a form. It uses the title tags on each input/textarea as the label values/hints. It is called it on the form (or any parent). </p>
