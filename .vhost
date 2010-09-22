@@ -11,7 +11,7 @@
 		allow from all
 	</Directory>
 
-	ErrorLog /var/log/apache2/error.log combined
+	ErrorLog /var/log/apache2/error.log
 
 	# Possible values include: debug, info, notice, warn, error, crit,
 	# alert, emerg.

@@ -1,2 +1,8 @@
 #/bin/bash
-ssh jdeerhake@git.jdeerhake.com 'cd /www/jdeerhake-com;git checkout production;git pull'
+if [ $1 == "production" ]; then
+  ssh jdeerhake@git.jdeerhake.com 'cd /www/jdeerhake-com;git checkout production;git pull'
+fi
+if [ $1 == "staging" ]; then
+  ssh jdeerhake@git.jdeerhake.com 'cd /www/staging-jdeerhake-com;rm -rf *;rm -rf .*;git clone git@git.jdeerhake.com:jdeerhake-com/jdeerhake-com.git .;git checkout master'
+fi
+
