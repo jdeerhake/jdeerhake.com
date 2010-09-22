@@ -18,9 +18,8 @@
 	<div class="section">
 		<h4>Download</h4>
 			<ul class="noMargin">
-				<li class="noMark"><a href="files/jquery.inputHintOverlay.js">jquery.inputHintOverlay.js</a> (v1.1.9)</li>
-				<li class="noMark"><a href="files/jquery.inputHintOverlay.min.js">jquery.inputHintOverlay.min.js</a> (v1.1.9)</li>
-				<li class="noMark"><a href="files/inputHintOverlay.zip">Example</a></li>
+				<li class="noMark"><a href="files/jquery.inputHintOverlay.js">jquery.inputHintOverlay.js</a> (v1.1.10)</li>
+				<li class="noMark"><a href="files/jquery.inputHintOverlay.min.js">jquery.inputHintOverlay.min.js</a> (v1.1.10)</li>
 				<li class="noMark">&nbsp;</li>
 			    <li class="noMark"><a href="http://github.com/jdeerhake/inputHintOverlay">GitHub repository</a></li>
 				<li class="noMark"><a href="http://plugins2.jquery.com/project/inputHintOverlay">jQuery plugin page</a></li>
