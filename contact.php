@@ -9,7 +9,7 @@
 		<dt>Email</dt>
 			<dd><a href="mailto:jdeerhake@gmail.com">jdeerhake@gmail.com</a></dd>
 		<dt>Address</dt>
-			<dd>8 Summer St, Apt 9<br /> Hanover, NH 03755</dd>
+			<dd>33 S Wilson Ave Apt 205<br />Pasadena, CA 91106</dd>
 	</dl>
 </div>
 
