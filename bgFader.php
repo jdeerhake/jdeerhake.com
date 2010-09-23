@@ -9,13 +9,13 @@
 		
 		<p>Example call to bgFader:</p>
 		<pre><code>$(myDiv).bgFader({
-			'type' : 'out',  //in or out  (cross coming soon)
-			'duration' : 300, //animation duraction - accepts jQuery defined strings (eg slow, fast) or ms
-			'newBg' : '', //new aruments for CSS 'background:' short hand declaration
-			'easing' : 'linear', //linear or swing (unless you have the jQuery easing plugin installed)
-			'fadeTo' : '0', //Opacity level at end of animation
-			'callback' : '' //Callback function when animation has completed
-		})</code></pre>
+	'type' : 'out',  //in or out  (cross coming soon)
+	'duration' : 300, //animation duraction - accepts jQuery defined strings (eg slow, fast) or ms
+	'newBg' : '', //new aruments for CSS 'background:' short hand declaration
+	'easing' : 'linear', //linear or swing (unless you have the jQuery easing plugin installed)
+	'fadeTo' : '0', //Opacity level at end of animation
+	'callback' : '' //Callback function when animation has completed
+})</code></pre>
 		<p>The example values provided are also the defaults (with the exception that fadeTo defaults to 1 for a fade in)</p>
 
 	</div>
