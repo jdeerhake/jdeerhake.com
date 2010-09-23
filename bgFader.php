@@ -1,7 +1,7 @@
 <?php require_once('include/header.php'); ?>
-<h2>inputHintOverlay</h2>
+<h2>bgFader</h2>
 <h3>jQuery Plugin</h3>
-<h4>v0.0.1</h4>
+<h4>v0.1.0</h4>
 <h4>Last update: 9/23/2010</h4>
 	<div class="section">
 		<h4>About</h4>
@@ -22,7 +22,7 @@
 	<div class="section">
 		<h4>Download</h4>
 			<ul class="noMargin">
-				<li class="noMark"><a href="files/jquery.bgFader.js">jquery.bgFader.js</a> (v0.0.1)</li>
+				<li class="noMark"><a href="files/jquery.bgFader.js">jquery.bgFader.js</a> (v0.1.0)</li>
 				<!--<li class="noMark"><a href="files/jquery.bgFader.min.js">jquery.bgFader.min.js</a> (v0.0.1)</li>-->
 				<li class="noMark"><a href="http://plugins.jquery.com/project/bgFader">jQuery plugin page</a></li>
 			</ul>
