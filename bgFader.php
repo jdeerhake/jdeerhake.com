@@ -24,6 +24,7 @@
 			<ul class="noMargin">
 				<li class="noMark"><a href="files/jquery.bgFader.js">jquery.bgFader.js</a> (v0.2.0)</li>
 				<!--<li class="noMark"><a href="files/jquery.bgFader.min.js">jquery.bgFader.min.js</a> (v0.0.1)</li>-->
+				<li class="noMark"><a href="http://github.com/jdeerhake/bgFader">GitHub Repo</a></li>
 				<li class="noMark"><a href="http://plugins.jquery.com/project/bgFader">jQuery plugin page</a></li>
 			</ul>
 	</div>
