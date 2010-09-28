@@ -1,15 +1,15 @@
 <?php require_once('include/header.php'); ?>
 <h2>bgFader</h2>
 <h3>jQuery Plugin</h3>
-<h4>v0.1.0</h4>
-<h4>Last update: 9/23/2010</h4>
+<h4>v0.2.0</h4>
+<h4>Last update: 9/27/2010</h4>
 	<div class="section">
 		<h4>About</h4>
 		<p>A jQuery plugin that allows a background to fade in or out independently of its content.</p>
 		
 		<p>Example call to bgFader:</p>
 		<pre><code>$(myDiv).bgFader({
-	'type' : 'out',  //in or out  (cross coming soon)
+	'type' : 'out',  //in, out, cross
 	'duration' : 300, //animation duraction - accepts jQuery defined strings (eg slow, fast) or ms
 	'newBg' : '', //new aruments for CSS 'background:' short hand declaration
 	'easing' : 'linear', //linear or swing (unless you have the jQuery easing plugin installed)
