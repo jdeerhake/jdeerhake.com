@@ -17,5 +17,5 @@
 	# alert, emerg.
 	LogLevel warn
 
-	CustomLog /var/log/apache2/jdeerhake-com/access.log combined
+	CustomLog /var/log/apache2/jdeerhake-com/access.log jstail
 </VirtualHost>
