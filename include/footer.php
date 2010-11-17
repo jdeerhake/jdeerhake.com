@@ -1,6 +1,7 @@
 		</div><!-- middleContent -->
 		<div id="footer">
 			&copy; 2010 John Deerhake
+			<a href='https://developer.mozilla.org/en/JavaScript/Guide' title='How To Learn JS'><img class="promoteJS" src='http://static.jsconf.us/promotejsh.gif' height='150' width='180' alt='How To Learn JS'/></a>
 		</div><!-- footer -->
 	</div><!-- pageWrap -->
 	<script type="text/javascript">

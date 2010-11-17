@@ -78,6 +78,7 @@
 	div#middleContent p { width: 385px; margin: 8px 0;  line-height: 1.2; text-align: justify; }
 	div#middleContent .right { float: right; margin: 20px 10px 40px; width: 400px; }
 	div#middleContent .rightCol { float: right; margin: 0 10px; width: 450px; }
+	.promoteJS { float: right; }
 	
 	/* About */
 	dl.myStuff {}
