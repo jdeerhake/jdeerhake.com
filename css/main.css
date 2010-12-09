@@ -3,9 +3,6 @@
 
 /* Fonts */
 @font-face { font-family: 'Folks-LightRegular'; src: url('fonts/Folks-Light-webfont.eot'); src: local('?'), url('fonts/Folks-Light-webfont.woff') format('woff'), url('fonts/Folks-Light-webfont.ttf') format('truetype'), url('fonts/Folks-Light-webfont.svg#webfont') format('svg'); font-weight: normal; font-style: normal; }
-@font-face { font-family: 'FolksRegular'; src: url('fonts/Folks-Normal-webfont.eot'); src: local('?'), url('fonts/Folks-Normal-webfont.woff') format('woff'), url('fonts/Folks-Normal-webfont.ttf') format('truetype'), url('fonts/Folks-Normal-webfont.svg#webfont') format('svg'); font-weight: normal; font-style: normal; }
-@font-face { font-family: 'FolksBold'; src: url('fonts/Folks-Bold-webfont.eot'); src: local('?'), url('fonts/Folks-Bold-webfont.woff') format('woff'), url('fonts/Folks-Bold-webfont.ttf') format('truetype'), url('fonts/Folks-Bold-webfont.svg#webfont') format('svg'); font-weight: normal; font-style: normal; }
-@font-face { font-family: 'Folks-HeavyRegular'; src: url('fonts/Folks-Heavy-webfont.eot'); src: local('?'), url('fonts/Folks-Heavy-webfont.woff') format('woff'), url('fonts/Folks-Heavy-webfont.ttf') format('truetype'), url('fonts/Folks-Heavy-webfont.svg#webfont') format('svg'); font-weight: normal; font-style: normal; }
 
 
 
@@ -14,7 +11,7 @@
 /**************/
 
 	/* Body */
-		body { font-family: Helvetica, sans-serif; font-size: 16px; }
+  body { font-family: Helvetica, sans-serif; font-size: 16px; line-height: 1.1; }
 
 	/* Headings */
 	h1, h2, h3, h4, h5, h6 { font-weight: normal; margin-bottom: 5px; }
@@ -31,12 +28,11 @@
 	a:link, a:visited { color: #C74350; padding: 0 1px; text-decoration: underline; }
 	
 	
-	/* Crap */
 	.clearFloat { clear: both; }
 	.floatLeft { float: left; margin-bottom: 25px; }
 	em { font-style: italic; }
 	div#dimBg { background-color: rgba(0,0,0,.75); position: fixed; top: 0; left: 0; width: 100%; height: 100%; display: none; z-index: 10000; }
-		div#dimBg img.centerImg { position: relative; top: 50%; left: 50%; visibility: hidden; }
+	div#dimBg img.centerImg { position: relative; top: 50%; left: 50%; visibility: hidden; }
 	.inputHintOverlay { color: #999; font-size: 15px; }
 	
 /**************/
@@ -75,7 +71,7 @@
 /**************/
 
 	div#middleContent { padding: 20px 40px; }
-	div#middleContent p { width: 385px; margin: 8px 0;  line-height: 1.2; text-align: justify; }
+	div#middleContent p { width: 385px; margin: 8px 0;  line-height: 1.3; text-align: justify; }
 	div#middleContent .right { float: right; margin: 20px 10px 40px; width: 400px; }
 	div#middleContent .rightCol { float: right; margin: 0 10px; width: 450px; }
 	.promoteJS { float: right; }
