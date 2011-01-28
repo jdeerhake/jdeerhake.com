@@ -12,6 +12,7 @@
 
 	/* Body */
   body { font-family: Helvetica, sans-serif; font-size: 16px; line-height: 1.1; }
+  div.body { line-height: 1.1em !important; }
 
 	/* Headings */
 	h1, h2, h3, h4, h5, h6 { font-weight: normal; margin-bottom: 5px; }
