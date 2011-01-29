@@ -1,10 +1,10 @@
 <?php require_once('include/header.php'); ?>
 
 <div class="rightCol">
-	<a href="http://www.flickr.com/photos/deerhake11/3681673488/in/set-72157620857671582/"><img class="right" src="http://farm4.static.flickr.com/3582/3681673488_f07d03d050.jpg"  alt="Fishing at sunset on Forearm Lake, Ontario, Canada"/></a>
-	<a href="http://www.flickr.com/photos/deerhake11/3869221330/"><img class="right" src="http://farm4.static.flickr.com/3528/3869221330_df026b2548.jpg"  alt="Picture I took in Prague, Czech Republic in Summer 2009" /></a>
-	<a href="http://www.flickr.com/photos/deerhake11/3385593428/"><img class="right" src="http://farm4.static.flickr.com/3435/3385593428_3320c1b8c1.jpg"  alt="Niagara Falls" /></a>
-	</div>
+	<a><img class="right flickr-random" /></a>
+	<a><img class="right flickr-random" /></a>
+	<a><img class="right flickr-random" /></a>
+</div>
 <h2>About Me</h2>
 <p class="narrow">I grew up outside the small town of LaFayette, Ohio (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Lafayette,+OH&amp;sll=37.0625,-95.677068&amp;sspn=84.512694,185.449219&amp;ie=UTF8&amp;hq=&amp;hnear=Lafayette,+Allen,+Ohio&amp;z=15&amp;iwloc=A">where?</a>).  
 	After graduating from high school I moved to Columbus and attended Ohio State.  While taking classes I worked multiple part time jobs simultaneously including working as an 

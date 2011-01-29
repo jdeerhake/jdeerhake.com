@@ -1,5 +1,5 @@
 <?php require_once('include/header.php'); ?>
-<a href="http://www.flickr.com/photos/deerhake11/1626983139/in/set-72157594431216284/"><img class="right" src="http://farm3.static.flickr.com/2100/1626983139_930dc35a23.jpg"  alt="Go Bucks!"/></a>
+<a><img class="right flickr-random" /></a>
 <h2>Code</h2>
 
 <dl class="projectList">
