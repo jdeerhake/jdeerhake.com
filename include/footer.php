@@ -6,7 +6,9 @@
 	<script type="text/javascript">
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-3736531-1']);
-	  _gaq.push(['_trackPageview']);
+    _gaq.push(['_setDomainName', '.jdeerhake.com']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_setAllowHash', false]);
 
 	  (function() {
 	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
