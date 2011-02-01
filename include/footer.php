@@ -9,6 +9,7 @@
     _gaq.push(['_setDomainName', '.jdeerhake.com']);
     _gaq.push(['_setAllowLinker', true]);
     _gaq.push(['_setAllowHash', false]);
+    _gaq.push(['_trackPageview']);
 
 	  (function() {
 	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -20,3 +21,4 @@
 	<script src="js/highlight.pack.js"></script>
 	<script src="js/effects.js"></script>
 </body>
+
