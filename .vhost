@@ -2,8 +2,9 @@
     ServerAdmin jdeerhake@gmail.com
     ServerName jdeerhake.com
     ServerAlias www.jdeerhake.com
-  
+
 	DocumentRoot /www/jdeerhake-com
+
 	<Directory /www/jdeerhake-com/>
 		Options -Indexes FollowSymLinks MultiViews
 		AllowOverride None
@@ -11,11 +12,12 @@
 		allow from all
 	</Directory>
 
-	ErrorLog /var/log/apache2/error.log
+	ErrorLog /www/jdeerhake-com/log/error.log
 
 	# Possible values include: debug, info, notice, warn, error, crit,
 	# alert, emerg.
 	LogLevel warn
 
-	CustomLog /var/log/apache2/jdeerhake-com/access.log combined
+	CustomLog /www/jdeerhake-com/log/access.log combined
 </VirtualHost>
+
