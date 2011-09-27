@@ -3,7 +3,6 @@
 <div class="rightCol">
 	<a><img class="right flickr-random" /></a>
 	<a><img class="right flickr-random" /></a>
-	<a><img class="right flickr-random" /></a>
 </div>
 <h2>About Me</h2>
 <p class="narrow">I grew up outside the small town of LaFayette, Ohio (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Lafayette,+OH&amp;sll=37.0625,-95.677068&amp;sspn=84.512694,185.449219&amp;ie=UTF8&amp;hq=&amp;hnear=Lafayette,+Allen,+Ohio&amp;z=15&amp;iwloc=A">where?</a>).
