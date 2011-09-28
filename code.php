@@ -3,7 +3,7 @@
 
 <h2>Code</h2>
 
-<dl class="projectList">
+<dl id="project-list">
   <dt>Javascript</dt>
   <dd><a href="http://github.com/jdeerhake/javascript-ui-templates">Javascript UI Templates</a> - Small collection of JS UI patterns I find myself reusing from time to time</dd>
 	<dt>jQuery Plugins</dt>

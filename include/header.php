@@ -1,3 +1,4 @@
+<!-- Why hello there -->
 <?php require_once('include/functions.php'); ?>
 <!DOCTYPE html>
 <html>
