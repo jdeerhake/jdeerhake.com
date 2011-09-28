@@ -1,5 +1,6 @@
 <?php require_once('include/header.php'); ?>
-<a><img class="right flickr-random" /></a>
+<?php $flickr = 1; ?>
+
 <h2>Code</h2>
 
 <dl class="projectList">
@@ -11,6 +12,5 @@
 	<dd><a href="http://blog.jdeerhake.com/inputhintoverlay-jquery-plugin">inputHintOverlay</a> - Adds label overlays to form input fields</dd>
 </dl>
 
-<div class="clearFloat"></div>
 <?php require_once('include/footer.php'); ?>
 

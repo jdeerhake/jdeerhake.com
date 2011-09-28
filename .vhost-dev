@@ -1,0 +1,23 @@
+<VirtualHost *:80>
+    ServerAdmin jdeerhake@gmail.com
+    ServerName jdeerhake.local
+    ServerAlias 192.168.1.100
+
+	DocumentRoot /home/jdeerhake/Repositories/jdeerhake-com
+
+	<Directory /home/jdeerhake/Repositories/jdeerhake-com/>
+		Options -Indexes FollowSymLinks MultiViews
+		AllowOverride None
+		Order allow,deny
+		allow from all
+	</Directory>
+
+	#ErrorLog /www/jdeerhake-com/log/error.log
+
+	# Possible values include: debug, info, notice, warn, error, crit,
+	# alert, emerg.
+	# LogLevel warn
+
+	# CustomLog /www/jdeerhake-com/log/access.log combined
+</VirtualHost>
+
