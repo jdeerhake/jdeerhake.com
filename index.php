@@ -1,6 +1,5 @@
 <!-- Hi -->
 <?php require_once('include/header.php'); ?>
-<?php $flickr = 1; ?>
 
 <h2>Hi There!</h2>
 
