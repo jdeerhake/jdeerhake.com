@@ -2,6 +2,7 @@
     ServerAdmin jdeerhake@gmail.com
     ServerName jdeerhake.com
     ServerAlias www.jdeerhake.com
+    ServerAlias 127.0.0.1
 
 	DocumentRoot /www/jdeerhake-com
 
