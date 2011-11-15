@@ -4,21 +4,23 @@
     ServerAlias www.jdeerhake.com
     ServerAlias 127.0.0.1
 
-	DocumentRoot /www/jdeerhake-com
+  DocumentRoot /www/jdeerhake-com
 
-	<Directory /www/jdeerhake-com/>
-		Options -Indexes FollowSymLinks MultiViews
-		AllowOverride None
-		Order allow,deny
-		allow from all
-	</Directory>
+  <Directory /www/jdeerhake-com/>
+    Options -Indexes FollowSymLinks MultiViews
+    AllowOverride None
+    Order allow,deny
+    allow from all
+  </Directory>
 
-	ErrorLog /www/jdeerhake-com/log/error.log
+  ErrorLog /www/jdeerhake-com/log/error.log
 
-	# Possible values include: debug, info, notice, warn, error, crit,
-	# alert, emerg.
-	LogLevel warn
+  # Possible values include: debug, info, notice, warn, error, crit,
+  # alert, emerg.
+  LogLevel warn
 
-	CustomLog /www/jdeerhake-com/log/access.log combined
+  CustomLog /www/jdeerhake-com/log/access.log combined
+
+  php_value newrelic.appname  'jdeerhake.com'
 </VirtualHost>
 
