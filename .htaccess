@@ -1,2 +1,2 @@
-php_flag newrelic.appname  'jdeerhake.com'
+php_value newrelic.appname  'jdeerhake.com'
 
