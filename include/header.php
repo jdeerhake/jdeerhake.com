@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <?php if( extension_loaded('newrelic') ) { echo newrelic_get_browser_timing_header(); } ?>
   <meta charset="utf-8" />
   <title>John Deerhake | web developer</title>
   <link rel="stylesheet" href="stylesheets/main.css" type="text/css" />

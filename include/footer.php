@@ -18,5 +18,7 @@
   </div><!-- page-wrap -->
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
   <script src="js/application.js"></script>
+
+  <?php if( extension_loaded('newrelic') ) { echo newrelic_get_browser_timing_footer(); } ?>
 </body>
 
