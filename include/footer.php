@@ -8,7 +8,7 @@
           <?php $x++;
           }
         } else { ?>
-          <a class="img" href="http://www.flickr.com/photos/deerhake11/3681694068/in/set-72157625803158479/"><img src="http://farm4.static.flickr.com/3049/3681694068_402f826c3e_z.jpg"></a>
+          <img src="/images/me.jpeg">
         <?php } ?>
     </div>
     <hr>
@@ -16,7 +16,7 @@
       &copy; <?php echo date("Y"); ?> John Deerhake
     </footer>
   </div><!-- page-wrap -->
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
   <script src="js/application.js"></script>
 
   <?php if( extension_loaded('newrelic') ) { echo newrelic_get_browser_timing_footer(); } ?>
