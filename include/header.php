@@ -17,7 +17,7 @@
           <li><a href="index.php">Home</a></li>
           <li><a href="about.php">About</a></li>
           <li><a href="http://jdeerhake.tumblr.com">Blog</a></li>
-          <li><a href="code.php">Code</a></li>
+          <li><a href="http://github.com/jdeerhake">Code</a></li>
           <li><a href="contact.php">Contact</a></li>
         </ul>
       </nav>
