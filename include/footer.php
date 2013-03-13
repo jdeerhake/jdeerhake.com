@@ -1,7 +1,7 @@
     </div><!-- left-col -->
     <div id="right-col">
       <?php
-        if($flickr) {
+        if( isset( $flickr ) ) {
           $x = 0;
           while($x < $flickr) { ?>
             <a class="img"><img class="flickr-random" /></a>
@@ -13,7 +13,7 @@
     </div>
     <hr>
     <footer>
-      &copy; <?php echo date("Y"); ?> John Deerhake
+      &copy; <?php echo date_default_timezone_set("Y"); ?> John Deerhake
     </footer>
   </div><!-- page-wrap -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
