@@ -153,7 +153,8 @@ dd + dt {
   margin: 0;
 
   li {
-    display: inline-block;
+    display: block;
+    float: left;
     width: 128px;
     height: 128px;
     margin: 5px;
@@ -196,6 +197,21 @@ dd + dt {
   .flickr {
     background-image: url(/images/flickr-256.png);
     background-color: #0063DB;
+  }
+
+  .tumblr {
+    background-image: url(/images/tumblr-256.png);
+    background-color: #2C4762;
+  }
+
+  .strava {
+    background-image: url(/images/strava-256.png);
+    background-color: #fc4c02;
+  }
+
+  .googleplus {
+    background-image: url(/images/googleplus-256.png);
+    background-color: #D14836;
   }
 }
 
