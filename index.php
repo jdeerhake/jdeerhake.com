@@ -8,7 +8,7 @@
 <p><a href='https://developer.mozilla.org/en/JavaScript' title='JavaScript Reference'><img src='http://static.jsconf.us/promotejsh.gif' height='150' width='180' alt='JavaScript Reference'/></a></p>
 
 <?php $images = Array(
-  'https://www.flickr.com/photos/deerhake11/11746877316/' => 'https://farm4.staticflickr.com/3676/11746877316_fb534c190d_z.jpg'
+  'http://jdeerhake.com' => '/images/me.jpg'
 ); ?>
 <?php require_once('include/footer.php'); ?>
 
