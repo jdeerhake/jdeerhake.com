@@ -16,7 +16,7 @@
         <ul id="top-nav">
           <li><a href="index.php">Home</a></li>
           <li><a href="about.php">About</a></li>
-          <li><a href="http://jdeerhake.tumblr.com">Blog</a></li>
+          <li><a href="https://www.flickr.com/photos/deerhake11">Photos</a></li>
           <li><a href="http://github.com/jdeerhake">Code</a></li>
           <li><a href="contact.php">Contact</a></li>
         </ul>

@@ -147,8 +147,52 @@ dd + dt {
   }
 }
 
-.social-icon {
-  height: 50px;
-  margin-left: 10px;
+
+#social {
+  li {
+    display: inline-block;
+    width: 128px;
+    height: 128px;
+    margin-right: 5px;
+    background-size: 128px 128px;
+    background-repeat: no-repeat;
+  }
+
+  a {
+    display: block;
+    text-indent: -1000em;
+    width: 100%;
+    height: 100%;
+  }
+
+  .gmail {
+    background-image: url(/images/gmail-256.png);
+    background-color: #DD4B39;
+  }
+
+  .linkedin {
+    background-image: url(/images/linkedin-256.png);
+    background-color: #007FB1;
+  }
+
+  .twitter {
+    background-image: url(/images/twitter-256.png);
+    background-color: #00ACED;
+  }
+
+  .github {
+    background-image: url(/images/github-256.png);
+    background-color: #4183C4;
+  }
+
+  .facebook {
+    background-image: url(/images/facebook-256.png);
+    background-color: #3B5998;
+  }
+
+  .flickr {
+    background-image: url(/images/flickr-256.png);
+    background-color: #0063DB;
+  }
 }
 

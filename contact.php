@@ -4,12 +4,32 @@
 
 
 
-<div id="social">
-  <a href="mailto:jdeerhake@gmail.com"><img class="social-icon" src="images/gmail.png" alt="Email" /></a>
-  <a href="http://twitter.com/jdeerhake"><img class="social-icon" src="images/twitter.png" alt="Twitter" /></a>
-  <a href="http://github.com/jdeerhake"><img class="social-icon" src="images/github.png" alt="Github" /></a>
-  <a href="http://facebook.com/deerhake11"><img class="social-icon" src="images/facebook.png" alt="Facebook" /></a>
-</div>
+<ul id="social">
+  <!-- Social icons from https://github.com/danleech/simple-icons -->
+  <li class='gmail'>
+    <a href="mailto:jdeerhake@gmail.com" title='Email'>Email</a>
+  </li>
+
+  <li class='linkedin'>
+    <a href="http://linkedin.com/in/jdeerhake/" title='LinkedIn'>LinkedIn</a>
+  </li>
+
+  <li class='twitter'>
+    <a href="http://twitter.com/jdeerhake" title='Twitter'>Twitter</a>
+  </li>
+
+  <li class='github'>
+    <a href="http://github.com/jdeerhake" title='GitHub'>GitHub</a>
+  </li>
+
+  <li class='facebook'>
+    <a href="http://facebook.com/deerhake11" title='Facebook'>Facebook</a>
+  </li>
+
+  <li class='flickr'>
+    <a href="http://flickr.com/photos/deerhake11" title='Flickr'>Flickr</a>
+  </li>
+</ul>
 
 
 
