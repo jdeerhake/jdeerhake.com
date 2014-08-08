@@ -1,4 +1,5 @@
 <?php
+date_default_timezone_set('America/Los_Angeles');
 
 function myage () {
 	$mydob = strtotime("October 8th, 1987");

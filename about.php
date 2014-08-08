@@ -1,5 +1,4 @@
 <?php require_once('include/header.php'); ?>
-<?php $flickr = 2; ?>
 
 <h2>About Me</h2>
 <p>I grew up outside the small town of LaFayette, Ohio (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Lafayette,+OH&amp;sll=37.0625,-95.677068&amp;sspn=84.512694,185.449219&amp;ie=UTF8&amp;hq=&amp;hnear=Lafayette,+Allen,+Ohio&amp;z=15&amp;iwloc=A">where?</a>).
@@ -15,6 +14,12 @@
 
 <p>In the midst of that experience I was introduced to coding by my cousin, Dustin.  I started with QBasic in 1996 and that led me to C and C++. Around that same year, I made my first
 	webpage using HTML and instantly loved web programming. </p>
+
+
+<?php $images = Array(
+  'https://www.flickr.com/photos/deerhake11/8939620570/' => 'https://farm4.staticflickr.com/3753/8939620570_63f0efec0e_z.jpg',
+  'https://www.flickr.com/photos/deerhake11/13076556865/' => 'https://farm8.staticflickr.com/7438/13076556865_18d5a66386_z.jpg'
+); ?>
 
 <?php require_once('include/footer.php'); ?>
 

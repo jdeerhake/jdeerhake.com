@@ -1,5 +1,4 @@
 <?php require_once('include/header.php'); ?>
-<?php $flickr = 1; ?>
 
 <h2>Contact Me</h2>
 
@@ -13,5 +12,10 @@
 </div>
 
 
+
+
+<?php $images = Array(
+  'https://www.flickr.com/photos/deerhake11/14416828886/' => 'https://farm3.staticflickr.com/2901/14416828886_954af1c845_z.jpg'
+); ?>
 <?php require_once('include/footer.php'); ?>
 
