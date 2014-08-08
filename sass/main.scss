@@ -149,11 +149,14 @@ dd + dt {
 
 
 #social {
+  list-style-type: none;
+  margin: 0;
+
   li {
     display: inline-block;
     width: 128px;
     height: 128px;
-    margin-right: 5px;
+    margin: 5px;
     background-size: 128px 128px;
     background-repeat: no-repeat;
   }
@@ -166,7 +169,7 @@ dd + dt {
   }
 
   .gmail {
-    background-image: url(/images/gmail-256.png);
+    background-image: url(/images/email-256.png);
     background-color: #DD4B39;
   }
 
