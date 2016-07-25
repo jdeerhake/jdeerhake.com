@@ -48,8 +48,8 @@
 
 
 <?php $images = Array(
-  'https://www.flickr.com/photos/deerhake11/14416828886/' => 'https://farm3.staticflickr.com/2901/14416828886_954af1c845_z.jpg',
-  'https://www.flickr.com/photos/deerhake11/8940161524/' => 'https://farm4.staticflickr.com/3806/8940161524_154d07daab_z.jpg'
+  'https://www.flickr.com/photos/deerhake11/14416828886/' => 'https://c2.staticflickr.com/8/7306/27612007735_52de0cf708_z.jpg',
+  'https://www.flickr.com/photos/deerhake11/albums/72157657475120313' => 'https://c2.staticflickr.com/6/5751/21506290603_852e0a6fa3_z.jpg'
 ); ?>
 <?php require_once('include/footer.php'); ?>
 
