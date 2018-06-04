@@ -22,20 +22,8 @@
     <a href="http://twitter.com/jdeerhake" title='Twitter'>Twitter</a>
   </li>
 
-  <li class='facebook'>
-    <a href="http://facebook.com/deerhake11" title='Facebook'>Facebook</a>
-  </li>
-
-  <li class='googleplus'>
-    <a href="https://plus.google.com/+JohnDeerhake" title='Google+'>Google+</a>
-  </li>
-
   <li class='flickr'>
     <a href="http://flickr.com/photos/deerhake11" title='Flickr'>Flickr</a>
-  </li>
-
-  <li class='tumblr'>
-    <a href="http://jdeerhake.tumblr.com" title='Tumblr'>Tumblr</a>
   </li>
 
   <li class='strava'>
